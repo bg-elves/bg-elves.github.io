@@ -2,7 +2,6 @@
 
 ![Корица](cover.jpg)
 
-<img src="avatar.png" alt="Профилна снимка" width="240">
 
 **Свали:** [профилна снимка (avatar.png)](avatar.png) · [корица (cover.jpg)](cover.jpg)
 
