@@ -559,6 +559,54 @@
       "avatarUrl": "/packages/70-detektiv/avatar_thumb.png",
       "coverUrl": "/packages/70-detektiv/cover.jpg",
       "readmeUrl": "/packages/70-detektiv/README.md"
+    },
+    {
+      "id": "71-hirurg",
+      "name": "Елф Хирург",
+      "label": "Изрязвам лъжите чисто, до здрава тъкан. Без упойка. ✂️ Всички сме елфи.",
+      "avatarUrl": "/packages/71-hirurg/avatar_thumb.png",
+      "coverUrl": "/packages/71-hirurg/cover.jpg",
+      "readmeUrl": "/packages/71-hirurg/README.md"
+    },
+    {
+      "id": "72-kardiolozhka",
+      "name": "Елф Кардиоложка",
+      "label": "Слушам сърцата. При троловете не чувам нищо. 🫀 Всички сме елфи.",
+      "avatarUrl": "/packages/72-kardiolozhka/avatar_thumb.png",
+      "coverUrl": "/packages/72-kardiolozhka/cover.jpg",
+      "readmeUrl": "/packages/72-kardiolozhka/README.md"
+    },
+    {
+      "id": "73-psihiatar",
+      "name": "Елф Психиатър",
+      "label": "Изслушвам всяка конспирация. Шапката от фолио я конфискувам. 🧠 Всички сме елфи.",
+      "avatarUrl": "/packages/73-psihiatar/avatar_thumb.png",
+      "coverUrl": "/packages/73-psihiatar/cover.jpg",
+      "readmeUrl": "/packages/73-psihiatar/README.md"
+    },
+    {
+      "id": "74-rentgenolog",
+      "name": "Елф Рентгенолог",
+      "label": "Виждам през профила. Под котето често има трол. 🩻 Всички сме елфи.",
+      "avatarUrl": "/packages/74-rentgenolog/avatar_thumb.png",
+      "coverUrl": "/packages/74-rentgenolog/cover.jpg",
+      "readmeUrl": "/packages/74-rentgenolog/README.md"
+    },
+    {
+      "id": "75-epidemiolozhka",
+      "name": "Елф Епидемиоложка",
+      "label": "Проследявам всяка лъжа до нулевия пациент. Обикновено е на изток. 🦠 Всички сме елфи.",
+      "avatarUrl": "/packages/75-epidemiolozhka/avatar_thumb.png",
+      "coverUrl": "/packages/75-epidemiolozhka/cover.jpg",
+      "readmeUrl": "/packages/75-epidemiolozhka/README.md"
+    },
+    {
+      "id": "76-grobar",
+      "name": "Елф Гробар",
+      "label": "Всяка лъжа стига до мен накрая. Копая без бързане. ⚰️ Всички сме елфи.",
+      "avatarUrl": "/packages/76-grobar/avatar_thumb.png",
+      "coverUrl": "/packages/76-grobar/cover.jpg",
+      "readmeUrl": "/packages/76-grobar/README.md"
     }
   ]
 }
