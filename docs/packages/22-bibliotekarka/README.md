@@ -7,11 +7,22 @@
 
 | Поле | Стойност |
 |---|---|
-| Име на страницата | **Елф Библиотекарка** |
+| Име на страницата | **Елф Библиотекарка** (или с прилагателно: „Елф Добра Библиотекарка“, виж [списъка](../../data/adjectives.yaml)) |
 | Потребителско име (предложение) | `@elf.bibliotekarka` (или добави град: `@elf.bibliotekarka.gabrovo`) |
 | Категория | Digital creator (или Comedian / Satire) |
+| Род | ж |
 | Профилна снимка | [avatar.png](avatar.png) (1080×1080) |
 | Корица | [cover.jpg](cover.jpg) (1640×624) |
+
+## Алтернативни имена
+
+| Име | Потребителско име |
+|---|---|
+| Елф Неустрашима Библиотекарка | `@elf.neustrashima.bibliotekarka` |
+| Елф Печена Библиотекарка | `@elf.pechena.bibliotekarka` |
+| Елф Добра Библиотекарка | `@elf.dobra.bibliotekarka` |
+| Елф Тайнствена Библиотекарка | `@elf.taynstvena.bibliotekarka` |
+| Елф Неподкупна Библиотекарка | `@elf.nepodkupna.bibliotekarka` |
 
 ## Био (до 101 знака)
 

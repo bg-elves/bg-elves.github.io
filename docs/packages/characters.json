@@ -3,394 +3,562 @@
     {
       "id": "01-pchelar",
       "name": "Елф Пчелар",
-      "label": "мед за своите, жило за троловете",
-      "avatarUrl": "/packages/01-pchelar/avatar.png",
+      "label": "Пазя кошера от орки и фалшиви новини. Мед за своите, жило за троловете. 🐝 Всички сме елфи.",
+      "avatarUrl": "/packages/01-pchelar/avatar_thumb.png",
       "coverUrl": "/packages/01-pchelar/cover.jpg",
       "readmeUrl": "/packages/01-pchelar/README.md"
     },
     {
       "id": "02-kuker",
       "name": "Елф Кукер",
-      "label": "звъни, докато злите духове избягат",
-      "avatarUrl": "/packages/02-kuker/avatar.png",
+      "label": "Звъня, докато злите духове от изток не избягат. Мен не ме спират с репорт. 🔔 Всички сме елфи.",
+      "avatarUrl": "/packages/02-kuker/avatar_thumb.png",
       "coverUrl": "/packages/02-kuker/cover.jpg",
       "readmeUrl": "/packages/02-kuker/README.md"
     },
     {
       "id": "03-ribar",
       "name": "Елф Рибар",
-      "label": "лови тролове от зори",
-      "avatarUrl": "/packages/03-ribar/avatar.png",
+      "label": "Ловя тролове от зори. Те репортват, аз ги вадя от водата. 🎣 Всички сме елфи.",
+      "avatarUrl": "/packages/03-ribar/avatar_thumb.png",
       "coverUrl": "/packages/03-ribar/cover.jpg",
       "readmeUrl": "/packages/03-ribar/README.md"
     },
     {
+      "id": "04-pozharnikar",
+      "name": "Елф Пожарникар",
+      "label": "Гася пожари във фийда. Паниката е гориво — не наливай. 🚒 Всички сме елфи.",
+      "avatarUrl": "/packages/04-pozharnikar/avatar_thumb.png",
+      "coverUrl": "/packages/04-pozharnikar/cover.jpg",
+      "readmeUrl": "/packages/04-pozharnikar/README.md"
+    },
+    {
       "id": "05-uchitel",
       "name": "Елф Учител",
-      "label": "двойка по поведение за орките",
-      "avatarUrl": "/packages/05-uchitel/avatar.png",
+      "label": "Медийна грамотност от 1 до 12 клас. Орките имат двойка по поведение. 📚 Всички сме елфи.",
+      "avatarUrl": "/packages/05-uchitel/avatar_thumb.png",
       "coverUrl": "/packages/05-uchitel/cover.jpg",
       "readmeUrl": "/packages/05-uchitel/README.md"
     },
     {
       "id": "06-taksidzhiya",
       "name": "Елф Таксиджия",
-      "label": "чувал е всички конспирации",
-      "avatarUrl": "/packages/06-taksidzhiya/avatar.png",
+      "label": "Возя от 30 години и съм чувал всички конспирации. Слизай, троле. 🚕 Всички сме елфи.",
+      "avatarUrl": "/packages/06-taksidzhiya/avatar_thumb.png",
       "coverUrl": "/packages/06-taksidzhiya/cover.jpg",
       "readmeUrl": "/packages/06-taksidzhiya/README.md"
     },
     {
       "id": "07-baba",
       "name": "Елф Баба",
-      "label": "от пейката вижда всичко",
-      "avatarUrl": "/packages/07-baba/avatar.png",
+      "label": "От пейката виждам всичко. И тролове, и лъжи. Семки има за всички. 🌻 Всички сме елфи.",
+      "avatarUrl": "/packages/07-baba/avatar_thumb.png",
       "coverUrl": "/packages/07-baba/cover.jpg",
       "readmeUrl": "/packages/07-baba/README.md"
     },
     {
       "id": "08-rakidzhiya",
       "name": "Елф Ракиджия",
-      "label": "вари истината на 45 градуса",
-      "avatarUrl": "/packages/08-rakidzhiya/avatar.png",
+      "label": "Варя истината на 45 градуса. Пропагандата не я пускам дори за промивка. 🥃 Всички сме елфи.",
+      "avatarUrl": "/packages/08-rakidzhiya/avatar_thumb.png",
       "coverUrl": "/packages/08-rakidzhiya/cover.jpg",
       "readmeUrl": "/packages/08-rakidzhiya/README.md"
     },
     {
       "id": "09-mehanik",
       "name": "Елф Механик",
-      "label": "оправя всичко с тел и тиксо",
-      "avatarUrl": "/packages/09-mehanik/avatar.png",
+      "label": "Оправям всичко с тел и тиксо. И счупени аргументи. 🔧 Всички сме елфи.",
+      "avatarUrl": "/packages/09-mehanik/avatar_thumb.png",
       "coverUrl": "/packages/09-mehanik/cover.jpg",
       "readmeUrl": "/packages/09-mehanik/README.md"
     },
     {
       "id": "10-meteorolog",
       "name": "Елф Метеоролог",
-      "label": "облачно, с копипаста от изток",
-      "avatarUrl": "/packages/10-meteorolog/avatar.png",
+      "label": "Прогноза: облачно, с копипаста от изток. Носете чадър от факти. ⛈️ Всички сме елфи.",
+      "avatarUrl": "/packages/10-meteorolog/avatar_thumb.png",
       "coverUrl": "/packages/10-meteorolog/cover.jpg",
       "readmeUrl": "/packages/10-meteorolog/README.md"
     },
     {
       "id": "11-moryak",
       "name": "Елф Моряк",
-      "label": "пази Черноморието от „братски“ кораби",
-      "avatarUrl": "/packages/11-moryak/avatar.png",
+      "label": "Пазя Черноморието от „братски“ кораби и тролове. ⚓ Всички сме елфи.",
+      "avatarUrl": "/packages/11-moryak/avatar_thumb.png",
       "coverUrl": "/packages/11-moryak/cover.jpg",
       "readmeUrl": "/packages/11-moryak/README.md"
     },
     {
       "id": "12-ovchar",
       "name": "Елф Овчар",
-      "label": "познава вълка и в овча кожа",
-      "avatarUrl": "/packages/12-ovchar/avatar.png",
+      "label": "Пазя стадото от вълци в чужда кожа. И кучето ми е каракачанско. 🐑 Всички сме елфи.",
+      "avatarUrl": "/packages/12-ovchar/avatar_thumb.png",
       "coverUrl": "/packages/12-ovchar/cover.jpg",
       "readmeUrl": "/packages/12-ovchar/README.md"
     },
     {
       "id": "13-gotvach",
       "name": "Елф Готвач",
-      "label": "баница за добрите, точилка за троловете",
-      "avatarUrl": "/packages/13-gotvach/avatar.png",
+      "label": "Баница за добрите, точилката за троловете. 🥧 Всички сме елфи.",
+      "avatarUrl": "/packages/13-gotvach/avatar_thumb.png",
       "coverUrl": "/packages/13-gotvach/cover.jpg",
       "readmeUrl": "/packages/13-gotvach/README.md"
     },
     {
       "id": "14-gaydar",
       "name": "Елф Гайдар",
-      "label": "свири така, че орките бягат",
-      "avatarUrl": "/packages/14-gaydar/avatar.png",
+      "label": "Свиря така, че орките бягат до Урал. 🎶 Всички сме елфи.",
+      "avatarUrl": "/packages/14-gaydar/avatar_thumb.png",
       "coverUrl": "/packages/14-gaydar/cover.jpg",
       "readmeUrl": "/packages/14-gaydar/README.md"
     },
     {
       "id": "15-shahmatist",
       "name": "Елф Шахматист",
-      "label": "мат на третия ход",
-      "avatarUrl": "/packages/15-shahmatist/avatar.png",
+      "label": "Играя шах с троловете в парка. Мат на третия ход. ♞ Всички сме елфи.",
+      "avatarUrl": "/packages/15-shahmatist/avatar_thumb.png",
       "coverUrl": "/packages/15-shahmatist/cover.jpg",
       "readmeUrl": "/packages/15-shahmatist/README.md"
     },
     {
       "id": "16-stroitel",
       "name": "Елф Строител",
-      "label": "зида стена от факти",
-      "avatarUrl": "/packages/16-stroitel/avatar.png",
+      "label": "Зидам стена от факти. Тухла по тухла, без шуробаджанаци. 🧱 Всички сме елфи.",
+      "avatarUrl": "/packages/16-stroitel/avatar_thumb.png",
       "coverUrl": "/packages/16-stroitel/cover.jpg",
       "readmeUrl": "/packages/16-stroitel/README.md"
     },
     {
       "id": "17-poshtalyon",
       "name": "Елф Пощальон",
-      "label": "нося истината до всяка врата",
-      "avatarUrl": "/packages/17-poshtalyon/avatar.png",
+      "label": "Нося истината до всяка врата. Веригите писма ги хвърлям в коша. ✉️ Всички сме елфи.",
+      "avatarUrl": "/packages/17-poshtalyon/avatar_thumb.png",
       "coverUrl": "/packages/17-poshtalyon/cover.jpg",
       "readmeUrl": "/packages/17-poshtalyon/README.md"
     },
     {
       "id": "18-feldsher",
       "name": "Елф Фелдшер",
-      "label": "първа помощ при фейкове",
-      "avatarUrl": "/packages/18-feldsher/avatar.png",
+      "label": "Първа помощ за изпаднали в паника от фейкове. 🚑 Всички сме елфи.",
+      "avatarUrl": "/packages/18-feldsher/avatar_thumb.png",
       "coverUrl": "/packages/18-feldsher/cover.jpg",
       "readmeUrl": "/packages/18-feldsher/README.md"
     },
     {
       "id": "19-dj",
       "name": "Елф DJ",
-      "label": "басите заглушават пропагандата",
-      "avatarUrl": "/packages/19-dj/avatar.png",
+      "label": "Пускам басите толкова силно, че пропагандата не се чува. 🎧 Всички сме елфи.",
+      "avatarUrl": "/packages/19-dj/avatar_thumb.png",
       "coverUrl": "/packages/19-dj/cover.jpg",
       "readmeUrl": "/packages/19-dj/README.md"
     },
     {
       "id": "20-futbolen-fen",
       "name": "Елф Фен",
-      "label": "най-силният глас на трибуната",
-      "avatarUrl": "/packages/20-futbolen-fen/avatar.png",
+      "label": "Най-силният глас на трибуната. Троловете на пейката. ⚽ Всички сме елфи.",
+      "avatarUrl": "/packages/20-futbolen-fen/avatar_thumb.png",
       "coverUrl": "/packages/20-futbolen-fen/cover.jpg",
       "readmeUrl": "/packages/20-futbolen-fen/README.md"
     },
     {
       "id": "21-programist",
       "name": "Елф Програмист",
-      "label": "хваща ботове по-бързо, отколкото пишат",
-      "avatarUrl": "/packages/21-programist/avatar.png",
+      "label": "Хващам ботове по-бързо, отколкото пишат копипаста. 💻 Всички сме елфи.",
+      "avatarUrl": "/packages/21-programist/avatar_thumb.png",
       "coverUrl": "/packages/21-programist/cover.jpg",
       "readmeUrl": "/packages/21-programist/README.md"
     },
     {
       "id": "22-bibliotekarka",
       "name": "Елф Библиотекарка",
-      "label": "тишина за троловете, глас за истината",
-      "avatarUrl": "/packages/22-bibliotekarka/avatar.png",
+      "label": "Тишина в читалнята! Освен за истината — тя се казва високо. 📚 Всички сме елфи.",
+      "avatarUrl": "/packages/22-bibliotekarka/avatar_thumb.png",
       "coverUrl": "/packages/22-bibliotekarka/cover.jpg",
       "readmeUrl": "/packages/22-bibliotekarka/README.md"
     },
     {
       "id": "23-frizyorka",
       "name": "Елф Фризьорка",
-      "label": "подстригва троловете на нула",
-      "avatarUrl": "/packages/23-frizyorka/avatar.png",
+      "label": "Подстригвам троловете на нула. Клюките проверявам преди сешоара. 💇 Всички сме елфи.",
+      "avatarUrl": "/packages/23-frizyorka/avatar_thumb.png",
       "coverUrl": "/packages/23-frizyorka/cover.jpg",
       "readmeUrl": "/packages/23-frizyorka/README.md"
     },
     {
       "id": "24-zemedelets",
       "name": "Елф Земеделец",
-      "label": "сее истина, скубе плевелите",
-      "avatarUrl": "/packages/24-zemedelets/avatar.png",
+      "label": "Сея истина, жъна факти. Плевелите от изток ги скубя. 🍅 Всички сме елфи.",
+      "avatarUrl": "/packages/24-zemedelets/avatar_thumb.png",
       "coverUrl": "/packages/24-zemedelets/cover.jpg",
       "readmeUrl": "/packages/24-zemedelets/README.md"
     },
     {
       "id": "25-minyor",
       "name": "Елф Миньор",
-      "label": "свети в тъмното",
-      "avatarUrl": "/packages/25-minyor/avatar.png",
+      "label": "Слизам в тъмното и светвам на всичко скрито. ⛏️ Всички сме елфи.",
+      "avatarUrl": "/packages/25-minyor/avatar_thumb.png",
       "coverUrl": "/packages/25-minyor/cover.jpg",
       "readmeUrl": "/packages/25-minyor/README.md"
     },
     {
       "id": "26-zheleznichar",
       "name": "Елф Железничар",
-      "label": "праща пропагандата в задънена линия",
-      "avatarUrl": "/packages/26-zheleznichar/avatar.png",
+      "label": "Пращам пропагандата в задънена линия. 🚂 Всички сме елфи.",
+      "avatarUrl": "/packages/26-zheleznichar/avatar_thumb.png",
       "coverUrl": "/packages/26-zheleznichar/cover.jpg",
       "readmeUrl": "/packages/26-zheleznichar/README.md"
     },
     {
       "id": "27-marshrutkadzhiya",
       "name": "Елф Маршруткаджия",
-      "label": "троловете без билет слизат",
-      "avatarUrl": "/packages/27-marshrutkadzhiya/avatar.png",
+      "label": "Троловете без билет слизат на първата спирка. 🚐 Всички сме елфи.",
+      "avatarUrl": "/packages/27-marshrutkadzhiya/avatar_thumb.png",
       "coverUrl": "/packages/27-marshrutkadzhiya/cover.jpg",
       "readmeUrl": "/packages/27-marshrutkadzhiya/README.md"
     },
     {
       "id": "28-pilot",
       "name": "Елф Пилот",
-      "label": "лети над бурите",
-      "avatarUrl": "/packages/28-pilot/avatar.png",
+      "label": "Летя над бурите на пропагандата. Ориентир — истината. ✈️ Всички сме елфи.",
+      "avatarUrl": "/packages/28-pilot/avatar_thumb.png",
       "coverUrl": "/packages/28-pilot/cover.jpg",
       "readmeUrl": "/packages/28-pilot/README.md"
     },
     {
       "id": "29-zhurnalistka",
       "name": "Елф Журналистка",
-      "label": "задава неудобните въпроси",
-      "avatarUrl": "/packages/29-zhurnalistka/avatar.png",
+      "label": "Задавам въпросите, на които троловете не искат да отговорят. 🎤 Всички сме елфи.",
+      "avatarUrl": "/packages/29-zhurnalistka/avatar_thumb.png",
       "coverUrl": "/packages/29-zhurnalistka/cover.jpg",
       "readmeUrl": "/packages/29-zhurnalistka/README.md"
     },
     {
       "id": "30-fotograf",
       "name": "Елф Фотограф",
-      "label": "снима истината, преди да я изтрият",
-      "avatarUrl": "/packages/30-fotograf/avatar.png",
+      "label": "Снимам истината, преди да я изтрият. 📸 Всички сме елфи.",
+      "avatarUrl": "/packages/30-fotograf/avatar_thumb.png",
       "coverUrl": "/packages/30-fotograf/cover.jpg",
       "readmeUrl": "/packages/30-fotograf/README.md"
     },
     {
       "id": "31-hudozhnik",
       "name": "Елф Художник",
-      "label": "рисува троловете такива, каквито са",
-      "avatarUrl": "/packages/31-hudozhnik/avatar.png",
+      "label": "Рисувам троловете такива, каквито са. Те мразят огледалата. 🎨 Всички сме елфи.",
+      "avatarUrl": "/packages/31-hudozhnik/avatar_thumb.png",
       "coverUrl": "/packages/31-hudozhnik/cover.jpg",
       "readmeUrl": "/packages/31-hudozhnik/README.md"
     },
     {
       "id": "32-hlebar",
       "name": "Елф Хлебар",
-      "label": "пече истински хляб",
-      "avatarUrl": "/packages/32-hlebar/avatar.png",
+      "label": "Пека истински хляб. Менте пропаганда не продавам. 🍞 Всички сме елфи.",
+      "avatarUrl": "/packages/32-hlebar/avatar_thumb.png",
       "coverUrl": "/packages/32-hlebar/cover.jpg",
       "readmeUrl": "/packages/32-hlebar/README.md"
     },
     {
       "id": "33-student",
       "name": "Елф Студент",
-      "label": "скъсва пропагандата на изпита",
-      "avatarUrl": "/packages/33-student/avatar.png",
+      "label": "Учим, мислим, мемим. Пропагандата скъсваме на изпита. 🎓 Всички сме елфи.",
+      "avatarUrl": "/packages/33-student/avatar_thumb.png",
       "coverUrl": "/packages/33-student/cover.jpg",
       "readmeUrl": "/packages/33-student/README.md"
     },
     {
       "id": "34-ski-instruktor",
       "name": "Елф Скиор",
-      "label": "троловете остават в преспите",
-      "avatarUrl": "/packages/34-ski-instruktor/avatar.png",
+      "label": "Учим ги да карат. Троловете остават в преспите. ⛷️ Всички сме елфи.",
+      "avatarUrl": "/packages/34-ski-instruktor/avatar_thumb.png",
       "coverUrl": "/packages/34-ski-instruktor/cover.jpg",
       "readmeUrl": "/packages/34-ski-instruktor/README.md"
     },
     {
       "id": "35-spasitel",
       "name": "Елф Спасител",
-      "label": "вади хората от морето на фейковете",
-      "avatarUrl": "/packages/35-spasitel/avatar.png",
+      "label": "Вадя хората от морето на фейковете. 🛟 Всички сме елфи.",
+      "avatarUrl": "/packages/35-spasitel/avatar_thumb.png",
       "coverUrl": "/packages/35-spasitel/cover.jpg",
       "readmeUrl": "/packages/35-spasitel/README.md"
     },
     {
       "id": "36-arheolog",
       "name": "Елф Археолог",
-      "label": "копае истинската история",
-      "avatarUrl": "/packages/36-arheolog/avatar.png",
+      "label": "Копая истинската история. Фалшивите „артефакти“ ги разпознавам. 🏺 Всички сме елфи.",
+      "avatarUrl": "/packages/36-arheolog/avatar_thumb.png",
       "coverUrl": "/packages/36-arheolog/cover.jpg",
       "readmeUrl": "/packages/36-arheolog/README.md"
     },
     {
       "id": "37-astronom",
       "name": "Елф Астроном",
-      "label": "троловете не са звезди",
-      "avatarUrl": "/packages/37-astronom/avatar.png",
+      "label": "Гледам звездите. Троловете не са звезди, само сателити. 🔭 Всички сме елфи.",
+      "avatarUrl": "/packages/37-astronom/avatar_thumb.png",
       "coverUrl": "/packages/37-astronom/cover.jpg",
       "readmeUrl": "/packages/37-astronom/README.md"
     },
     {
       "id": "38-veterinarka",
       "name": "Елф Ветеринарка",
-      "label": "разкрива троловете маскирани като котета",
-      "avatarUrl": "/packages/38-veterinarka/avatar.png",
+      "label": "Лекувам животни. Троловете маскирани като котета не минават. 🐾 Всички сме елфи.",
+      "avatarUrl": "/packages/38-veterinarka/avatar_thumb.png",
       "coverUrl": "/packages/38-veterinarka/cover.jpg",
       "readmeUrl": "/packages/38-veterinarka/README.md"
     },
     {
       "id": "39-kurier",
       "name": "Елф Куриер",
-      "label": "доставя факти за 15 минути",
-      "avatarUrl": "/packages/39-kurier/avatar.png",
+      "label": "Доставям факти за 15 минути. Пропагандата я връщам на подателя. 🚴 Всички сме елфи.",
+      "avatarUrl": "/packages/39-kurier/avatar_thumb.png",
       "coverUrl": "/packages/39-kurier/cover.jpg",
       "readmeUrl": "/packages/39-kurier/README.md"
     },
     {
       "id": "40-barman",
       "name": "Елф Барман",
-      "label": "налива на приятелите, троловете — вън",
-      "avatarUrl": "/packages/40-barman/avatar.png",
+      "label": "Наливам на приятелите. Троловете — вън. 🍺 Всички сме елфи.",
+      "avatarUrl": "/packages/40-barman/avatar_thumb.png",
       "coverUrl": "/packages/40-barman/cover.jpg",
       "readmeUrl": "/packages/40-barman/README.md"
     },
     {
       "id": "41-zabolekar",
       "name": "Елф Зъболекар",
-      "label": "вади лъжите с корена",
-      "avatarUrl": "/packages/41-zabolekar/avatar.png",
+      "label": "Вадя лъжите с корена. Без упойка. 🦷 Всички сме елфи.",
+      "avatarUrl": "/packages/41-zabolekar/avatar_thumb.png",
       "coverUrl": "/packages/41-zabolekar/cover.jpg",
       "readmeUrl": "/packages/41-zabolekar/README.md"
     },
     {
       "id": "42-sladkarka",
       "name": "Елф Сладкарка",
-      "label": "торти за добрите",
-      "avatarUrl": "/packages/42-sladkarka/avatar.png",
+      "label": "Торти за добрите. Троловете гледат през витрината. 🎂 Всички сме елфи.",
+      "avatarUrl": "/packages/42-sladkarka/avatar_thumb.png",
       "coverUrl": "/packages/42-sladkarka/cover.jpg",
       "readmeUrl": "/packages/42-sladkarka/README.md"
     },
     {
       "id": "43-lozar",
       "name": "Елф Винар",
-      "label": "истината отлежава",
-      "avatarUrl": "/packages/43-lozar/avatar.png",
+      "label": "Истината отлежава. Пропагандата вкисва. 🍷 Всички сме елфи.",
+      "avatarUrl": "/packages/43-lozar/avatar_thumb.png",
       "coverUrl": "/packages/43-lozar/cover.jpg",
       "readmeUrl": "/packages/43-lozar/README.md"
     },
     {
       "id": "44-gradinarka",
       "name": "Елф Розоберачка",
-      "label": "розите имат бодли",
-      "avatarUrl": "/packages/44-gradinarka/avatar.png",
+      "label": "Розите имат бодли. Троловете кихат от тях. 🌹 Всички сме елфи.",
+      "avatarUrl": "/packages/44-gradinarka/avatar_thumb.png",
       "coverUrl": "/packages/44-gradinarka/cover.jpg",
       "readmeUrl": "/packages/44-gradinarka/README.md"
     },
     {
       "id": "45-prodavachka",
       "name": "Елф Продавачка",
-      "label": "на троловете не продава",
-      "avatarUrl": "/packages/45-prodavachka/avatar.png",
+      "label": "От будката виждам всичко. На троловете не продавам. 🏪 Всички сме елфи.",
+      "avatarUrl": "/packages/45-prodavachka/avatar_thumb.png",
       "coverUrl": "/packages/45-prodavachka/cover.jpg",
       "readmeUrl": "/packages/45-prodavachka/README.md"
     },
     {
       "id": "46-elektrotehnik",
       "name": "Елф Електротехник",
-      "label": "свързва кабелите, които троловете режат",
-      "avatarUrl": "/packages/46-elektrotehnik/avatar.png",
+      "label": "Свързвам кабелите, които троловете режат. ⚡ Всички сме елфи.",
+      "avatarUrl": "/packages/46-elektrotehnik/avatar_thumb.png",
       "coverUrl": "/packages/46-elektrotehnik/cover.jpg",
       "readmeUrl": "/packages/46-elektrotehnik/README.md"
     },
     {
       "id": "47-vodoprovodchik",
       "name": "Елф Водопроводчик",
-      "label": "отпушва канала от пропаганда",
-      "avatarUrl": "/packages/47-vodoprovodchik/avatar.png",
+      "label": "Отпушвам канала от пропаганда. Мръсна работа, но някой трябва. 🪠 Всички сме елфи.",
+      "avatarUrl": "/packages/47-vodoprovodchik/avatar_thumb.png",
       "coverUrl": "/packages/47-vodoprovodchik/cover.jpg",
       "readmeUrl": "/packages/47-vodoprovodchik/README.md"
     },
     {
       "id": "48-aptekarka",
       "name": "Елф Аптекарка",
-      "label": "чудодейните хапчета от изток не минават",
-      "avatarUrl": "/packages/48-aptekarka/avatar.png",
+      "label": "Отпускам истински лекарства. Чудодейни хапчета от изток — не. 💊 Всички сме елфи.",
+      "avatarUrl": "/packages/48-aptekarka/avatar_thumb.png",
       "coverUrl": "/packages/48-aptekarka/cover.jpg",
       "readmeUrl": "/packages/48-aptekarka/README.md"
     },
     {
       "id": "49-kosmonavt",
       "name": "Елф Космонавт",
-      "label": "от орбита България е в Европа",
-      "avatarUrl": "/packages/49-kosmonavt/avatar.png",
+      "label": "Отгоре се вижда, че България е в Европа. Троловете още спорят. 🚀 Всички сме елфи.",
+      "avatarUrl": "/packages/49-kosmonavt/avatar_thumb.png",
       "coverUrl": "/packages/49-kosmonavt/cover.jpg",
       "readmeUrl": "/packages/49-kosmonavt/README.md"
     },
     {
       "id": "50-gorski",
       "name": "Елф Горски",
-      "label": "троловете се губят в гората",
-      "avatarUrl": "/packages/50-gorski/avatar.png",
+      "label": "Пазя гората. Троловете се губят в нея. 🌲 Всички сме елфи.",
+      "avatarUrl": "/packages/50-gorski/avatar_thumb.png",
       "coverUrl": "/packages/50-gorski/cover.jpg",
       "readmeUrl": "/packages/50-gorski/README.md"
+    },
+    {
+      "id": "51-rednik",
+      "name": "Елф Редник",
+      "label": "Не командвам, но и не мълча. Строй се, рояко! 🪖 Всички сме елфи.",
+      "avatarUrl": "/packages/51-rednik/avatar_thumb.png",
+      "coverUrl": "/packages/51-rednik/cover.jpg",
+      "readmeUrl": "/packages/51-rednik/README.md"
+    },
+    {
+      "id": "52-efreytor",
+      "name": "Елф Ефрейтор",
+      "label": "Една нашивка, нула търпение към троловете. 🎖️ Всички сме елфи.",
+      "avatarUrl": "/packages/52-efreytor/avatar_thumb.png",
+      "coverUrl": "/packages/52-efreytor/cover.jpg",
+      "readmeUrl": "/packages/52-efreytor/README.md"
+    },
+    {
+      "id": "53-serzhant",
+      "name": "Елф Сержант",
+      "label": "Двайсет лицеви опори за всеки трол! Мирно! 📢 Всички сме елфи.",
+      "avatarUrl": "/packages/53-serzhant/avatar_thumb.png",
+      "coverUrl": "/packages/53-serzhant/cover.jpg",
+      "readmeUrl": "/packages/53-serzhant/README.md"
+    },
+    {
+      "id": "54-polkovnik",
+      "name": "Елф Полковник",
+      "label": "На полковника никой не му пише. Затова той пише на всички. 🎖️ Всички сме елфи.",
+      "avatarUrl": "/packages/54-polkovnik/avatar_thumb.png",
+      "coverUrl": "/packages/54-polkovnik/cover.jpg",
+      "readmeUrl": "/packages/54-polkovnik/README.md"
+    },
+    {
+      "id": "55-general",
+      "name": "Елф Генерал",
+      "label": "Генерал на армия, която няма генерал. ⭐ Всички сме елфи.",
+      "avatarUrl": "/packages/55-general/avatar_thumb.png",
+      "coverUrl": "/packages/55-general/cover.jpg",
+      "readmeUrl": "/packages/55-general/README.md"
+    },
+    {
+      "id": "56-tankist",
+      "name": "Елф Танкист",
+      "label": "Бавен, шумен и непоклатим. Като рояка. 🛡️ Всички сме елфи.",
+      "avatarUrl": "/packages/56-tankist/avatar_thumb.png",
+      "coverUrl": "/packages/56-tankist/cover.jpg",
+      "readmeUrl": "/packages/56-tankist/README.md"
+    },
+    {
+      "id": "57-parashutist",
+      "name": "Елф Парашутист",
+      "label": "Скачам там, където никой не ме чака. Кацам меко. 🪂 Всички сме елфи.",
+      "avatarUrl": "/packages/57-parashutist/avatar_thumb.png",
+      "coverUrl": "/packages/57-parashutist/cover.jpg",
+      "readmeUrl": "/packages/57-parashutist/README.md"
+    },
+    {
+      "id": "58-sapyor",
+      "name": "Елф Сапьор",
+      "label": "Обезвреждам фейкове. Режа синия кабел. 🧰 Всички сме елфи.",
+      "avatarUrl": "/packages/58-sapyor/avatar_thumb.png",
+      "coverUrl": "/packages/58-sapyor/cover.jpg",
+      "readmeUrl": "/packages/58-sapyor/README.md"
+    },
+    {
+      "id": "59-svarzochnik",
+      "name": "Елф Свързочник",
+      "label": "Прекъснат ли е сигналът, пускам нов кабел. 📡 Всички сме елфи.",
+      "avatarUrl": "/packages/59-svarzochnik/avatar_thumb.png",
+      "coverUrl": "/packages/59-svarzochnik/cover.jpg",
+      "readmeUrl": "/packages/59-svarzochnik/README.md"
+    },
+    {
+      "id": "60-gvardeets",
+      "name": "Елф Гвардеец",
+      "label": "Не мърдам, не мигам, не се отказвам. 🇧🇬 Всички сме елфи.",
+      "avatarUrl": "/packages/60-gvardeets/avatar_thumb.png",
+      "coverUrl": "/packages/60-gvardeets/cover.jpg",
+      "readmeUrl": "/packages/60-gvardeets/README.md"
+    },
+    {
+      "id": "61-mitnichar",
+      "name": "Елф Митничар",
+      "label": "Пропагандата без декларация не минава. 🛃 Всички сме елфи.",
+      "avatarUrl": "/packages/61-mitnichar/avatar_thumb.png",
+      "coverUrl": "/packages/61-mitnichar/cover.jpg",
+      "readmeUrl": "/packages/61-mitnichar/README.md"
+    },
+    {
+      "id": "62-katadzhiya",
+      "name": "Елф Катаджия",
+      "label": "Контрола! Пропагандата без билет плаща глоба на място. 🎫 Всички сме елфи.",
+      "avatarUrl": "/packages/62-katadzhiya/avatar_thumb.png",
+      "coverUrl": "/packages/62-katadzhiya/cover.jpg",
+      "readmeUrl": "/packages/62-katadzhiya/README.md"
+    },
+    {
+      "id": "63-sadiyka",
+      "name": "Елф Съдийка",
+      "label": "Изслушвам и двете страни. После отсъждам в полза на истината. ⚖️ Всички сме елфи.",
+      "avatarUrl": "/packages/63-sadiyka/avatar_thumb.png",
+      "coverUrl": "/packages/63-sadiyka/cover.jpg",
+      "readmeUrl": "/packages/63-sadiyka/README.md"
+    },
+    {
+      "id": "64-refer",
+      "name": "Елф Рефер",
+      "label": "Червен картон за троловете. Без ВАР, без обжалване. 🟥 Всички сме елфи.",
+      "avatarUrl": "/packages/64-refer/avatar_thumb.png",
+      "coverUrl": "/packages/64-refer/cover.jpg",
+      "readmeUrl": "/packages/64-refer/README.md"
+    },
+    {
+      "id": "65-kasierka",
+      "name": "Елф Касиерка",
+      "label": "Фалшивите новини не минават през моята каса. 🧾 Всички сме елфи.",
+      "avatarUrl": "/packages/65-kasierka/avatar_thumb.png",
+      "coverUrl": "/packages/65-kasierka/cover.jpg",
+      "readmeUrl": "/packages/65-kasierka/README.md"
+    },
+    {
+      "id": "66-chistach",
+      "name": "Елф Чистач",
+      "label": "Мета ботовете от фийда всяка сутрин. 🧹 Всички сме елфи.",
+      "avatarUrl": "/packages/66-chistach/avatar_thumb.png",
+      "coverUrl": "/packages/66-chistach/cover.jpg",
+      "readmeUrl": "/packages/66-chistach/README.md"
+    },
+    {
+      "id": "67-tiradzhiya",
+      "name": "Елф Тираджия",
+      "label": "Хиляди километри, нула ботове на борда. 🚛 Всички сме елфи.",
+      "avatarUrl": "/packages/67-tiradzhiya/avatar_thumb.png",
+      "coverUrl": "/packages/67-tiradzhiya/cover.jpg",
+      "readmeUrl": "/packages/67-tiradzhiya/README.md"
+    },
+    {
+      "id": "68-medsestra",
+      "name": "Елф Медсестра",
+      "label": "Инжекция смях, три пъти дневно. Без рецепта. 💉 Всички сме елфи.",
+      "avatarUrl": "/packages/68-medsestra/avatar_thumb.png",
+      "coverUrl": "/packages/68-medsestra/cover.jpg",
+      "readmeUrl": "/packages/68-medsestra/README.md"
+    },
+    {
+      "id": "69-shivachka",
+      "name": "Елф Шивачка",
+      "label": "Кърпя каквото скъсат. Шия нови страници. 🧵 Всички сме елфи.",
+      "avatarUrl": "/packages/69-shivachka/avatar_thumb.png",
+      "coverUrl": "/packages/69-shivachka/cover.jpg",
+      "readmeUrl": "/packages/69-shivachka/README.md"
+    },
+    {
+      "id": "70-detektiv",
+      "name": "Елф Детектив",
+      "label": "Следя ботовете по стъпките им. Всички водят на изток. 🔎 Всички сме елфи.",
+      "avatarUrl": "/packages/70-detektiv/avatar_thumb.png",
+      "coverUrl": "/packages/70-detektiv/cover.jpg",
+      "readmeUrl": "/packages/70-detektiv/README.md"
     }
   ]
 }

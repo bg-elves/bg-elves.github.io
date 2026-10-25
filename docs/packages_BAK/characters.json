@@ -1,0 +1,396 @@
+{
+  "characters": [
+    {
+      "id": "01-pchelar",
+      "name": "Елф Пчелар",
+      "label": "мед за своите, жило за троловете",
+      "avatarUrl": "/packages/01-pchelar/avatar.png",
+      "coverUrl": "/packages/01-pchelar/cover.jpg",
+      "readmeUrl": "/packages/01-pchelar/README.md"
+    },
+    {
+      "id": "02-kuker",
+      "name": "Елф Кукер",
+      "label": "звъни, докато злите духове избягат",
+      "avatarUrl": "/packages/02-kuker/avatar.png",
+      "coverUrl": "/packages/02-kuker/cover.jpg",
+      "readmeUrl": "/packages/02-kuker/README.md"
+    },
+    {
+      "id": "03-ribar",
+      "name": "Елф Рибар",
+      "label": "лови тролове от зори",
+      "avatarUrl": "/packages/03-ribar/avatar.png",
+      "coverUrl": "/packages/03-ribar/cover.jpg",
+      "readmeUrl": "/packages/03-ribar/README.md"
+    },
+    {
+      "id": "05-uchitel",
+      "name": "Елф Учител",
+      "label": "двойка по поведение за орките",
+      "avatarUrl": "/packages/05-uchitel/avatar.png",
+      "coverUrl": "/packages/05-uchitel/cover.jpg",
+      "readmeUrl": "/packages/05-uchitel/README.md"
+    },
+    {
+      "id": "06-taksidzhiya",
+      "name": "Елф Таксиджия",
+      "label": "чувал е всички конспирации",
+      "avatarUrl": "/packages/06-taksidzhiya/avatar.png",
+      "coverUrl": "/packages/06-taksidzhiya/cover.jpg",
+      "readmeUrl": "/packages/06-taksidzhiya/README.md"
+    },
+    {
+      "id": "07-baba",
+      "name": "Елф Баба",
+      "label": "от пейката вижда всичко",
+      "avatarUrl": "/packages/07-baba/avatar.png",
+      "coverUrl": "/packages/07-baba/cover.jpg",
+      "readmeUrl": "/packages/07-baba/README.md"
+    },
+    {
+      "id": "08-rakidzhiya",
+      "name": "Елф Ракиджия",
+      "label": "вари истината на 45 градуса",
+      "avatarUrl": "/packages/08-rakidzhiya/avatar.png",
+      "coverUrl": "/packages/08-rakidzhiya/cover.jpg",
+      "readmeUrl": "/packages/08-rakidzhiya/README.md"
+    },
+    {
+      "id": "09-mehanik",
+      "name": "Елф Механик",
+      "label": "оправя всичко с тел и тиксо",
+      "avatarUrl": "/packages/09-mehanik/avatar.png",
+      "coverUrl": "/packages/09-mehanik/cover.jpg",
+      "readmeUrl": "/packages/09-mehanik/README.md"
+    },
+    {
+      "id": "10-meteorolog",
+      "name": "Елф Метеоролог",
+      "label": "облачно, с копипаста от изток",
+      "avatarUrl": "/packages/10-meteorolog/avatar.png",
+      "coverUrl": "/packages/10-meteorolog/cover.jpg",
+      "readmeUrl": "/packages/10-meteorolog/README.md"
+    },
+    {
+      "id": "11-moryak",
+      "name": "Елф Моряк",
+      "label": "пази Черноморието от „братски“ кораби",
+      "avatarUrl": "/packages/11-moryak/avatar.png",
+      "coverUrl": "/packages/11-moryak/cover.jpg",
+      "readmeUrl": "/packages/11-moryak/README.md"
+    },
+    {
+      "id": "12-ovchar",
+      "name": "Елф Овчар",
+      "label": "познава вълка и в овча кожа",
+      "avatarUrl": "/packages/12-ovchar/avatar.png",
+      "coverUrl": "/packages/12-ovchar/cover.jpg",
+      "readmeUrl": "/packages/12-ovchar/README.md"
+    },
+    {
+      "id": "13-gotvach",
+      "name": "Елф Готвач",
+      "label": "баница за добрите, точилка за троловете",
+      "avatarUrl": "/packages/13-gotvach/avatar.png",
+      "coverUrl": "/packages/13-gotvach/cover.jpg",
+      "readmeUrl": "/packages/13-gotvach/README.md"
+    },
+    {
+      "id": "14-gaydar",
+      "name": "Елф Гайдар",
+      "label": "свири така, че орките бягат",
+      "avatarUrl": "/packages/14-gaydar/avatar.png",
+      "coverUrl": "/packages/14-gaydar/cover.jpg",
+      "readmeUrl": "/packages/14-gaydar/README.md"
+    },
+    {
+      "id": "15-shahmatist",
+      "name": "Елф Шахматист",
+      "label": "мат на третия ход",
+      "avatarUrl": "/packages/15-shahmatist/avatar.png",
+      "coverUrl": "/packages/15-shahmatist/cover.jpg",
+      "readmeUrl": "/packages/15-shahmatist/README.md"
+    },
+    {
+      "id": "16-stroitel",
+      "name": "Елф Строител",
+      "label": "зида стена от факти",
+      "avatarUrl": "/packages/16-stroitel/avatar.png",
+      "coverUrl": "/packages/16-stroitel/cover.jpg",
+      "readmeUrl": "/packages/16-stroitel/README.md"
+    },
+    {
+      "id": "17-poshtalyon",
+      "name": "Елф Пощальон",
+      "label": "нося истината до всяка врата",
+      "avatarUrl": "/packages/17-poshtalyon/avatar.png",
+      "coverUrl": "/packages/17-poshtalyon/cover.jpg",
+      "readmeUrl": "/packages/17-poshtalyon/README.md"
+    },
+    {
+      "id": "18-feldsher",
+      "name": "Елф Фелдшер",
+      "label": "първа помощ при фейкове",
+      "avatarUrl": "/packages/18-feldsher/avatar.png",
+      "coverUrl": "/packages/18-feldsher/cover.jpg",
+      "readmeUrl": "/packages/18-feldsher/README.md"
+    },
+    {
+      "id": "19-dj",
+      "name": "Елф DJ",
+      "label": "басите заглушават пропагандата",
+      "avatarUrl": "/packages/19-dj/avatar.png",
+      "coverUrl": "/packages/19-dj/cover.jpg",
+      "readmeUrl": "/packages/19-dj/README.md"
+    },
+    {
+      "id": "20-futbolen-fen",
+      "name": "Елф Фен",
+      "label": "най-силният глас на трибуната",
+      "avatarUrl": "/packages/20-futbolen-fen/avatar.png",
+      "coverUrl": "/packages/20-futbolen-fen/cover.jpg",
+      "readmeUrl": "/packages/20-futbolen-fen/README.md"
+    },
+    {
+      "id": "21-programist",
+      "name": "Елф Програмист",
+      "label": "хваща ботове по-бързо, отколкото пишат",
+      "avatarUrl": "/packages/21-programist/avatar.png",
+      "coverUrl": "/packages/21-programist/cover.jpg",
+      "readmeUrl": "/packages/21-programist/README.md"
+    },
+    {
+      "id": "22-bibliotekarka",
+      "name": "Елф Библиотекарка",
+      "label": "тишина за троловете, глас за истината",
+      "avatarUrl": "/packages/22-bibliotekarka/avatar.png",
+      "coverUrl": "/packages/22-bibliotekarka/cover.jpg",
+      "readmeUrl": "/packages/22-bibliotekarka/README.md"
+    },
+    {
+      "id": "23-frizyorka",
+      "name": "Елф Фризьорка",
+      "label": "подстригва троловете на нула",
+      "avatarUrl": "/packages/23-frizyorka/avatar.png",
+      "coverUrl": "/packages/23-frizyorka/cover.jpg",
+      "readmeUrl": "/packages/23-frizyorka/README.md"
+    },
+    {
+      "id": "24-zemedelets",
+      "name": "Елф Земеделец",
+      "label": "сее истина, скубе плевелите",
+      "avatarUrl": "/packages/24-zemedelets/avatar.png",
+      "coverUrl": "/packages/24-zemedelets/cover.jpg",
+      "readmeUrl": "/packages/24-zemedelets/README.md"
+    },
+    {
+      "id": "25-minyor",
+      "name": "Елф Миньор",
+      "label": "свети в тъмното",
+      "avatarUrl": "/packages/25-minyor/avatar.png",
+      "coverUrl": "/packages/25-minyor/cover.jpg",
+      "readmeUrl": "/packages/25-minyor/README.md"
+    },
+    {
+      "id": "26-zheleznichar",
+      "name": "Елф Железничар",
+      "label": "праща пропагандата в задънена линия",
+      "avatarUrl": "/packages/26-zheleznichar/avatar.png",
+      "coverUrl": "/packages/26-zheleznichar/cover.jpg",
+      "readmeUrl": "/packages/26-zheleznichar/README.md"
+    },
+    {
+      "id": "27-marshrutkadzhiya",
+      "name": "Елф Маршруткаджия",
+      "label": "троловете без билет слизат",
+      "avatarUrl": "/packages/27-marshrutkadzhiya/avatar.png",
+      "coverUrl": "/packages/27-marshrutkadzhiya/cover.jpg",
+      "readmeUrl": "/packages/27-marshrutkadzhiya/README.md"
+    },
+    {
+      "id": "28-pilot",
+      "name": "Елф Пилот",
+      "label": "лети над бурите",
+      "avatarUrl": "/packages/28-pilot/avatar.png",
+      "coverUrl": "/packages/28-pilot/cover.jpg",
+      "readmeUrl": "/packages/28-pilot/README.md"
+    },
+    {
+      "id": "29-zhurnalistka",
+      "name": "Елф Журналистка",
+      "label": "задава неудобните въпроси",
+      "avatarUrl": "/packages/29-zhurnalistka/avatar.png",
+      "coverUrl": "/packages/29-zhurnalistka/cover.jpg",
+      "readmeUrl": "/packages/29-zhurnalistka/README.md"
+    },
+    {
+      "id": "30-fotograf",
+      "name": "Елф Фотограф",
+      "label": "снима истината, преди да я изтрият",
+      "avatarUrl": "/packages/30-fotograf/avatar.png",
+      "coverUrl": "/packages/30-fotograf/cover.jpg",
+      "readmeUrl": "/packages/30-fotograf/README.md"
+    },
+    {
+      "id": "31-hudozhnik",
+      "name": "Елф Художник",
+      "label": "рисува троловете такива, каквито са",
+      "avatarUrl": "/packages/31-hudozhnik/avatar.png",
+      "coverUrl": "/packages/31-hudozhnik/cover.jpg",
+      "readmeUrl": "/packages/31-hudozhnik/README.md"
+    },
+    {
+      "id": "32-hlebar",
+      "name": "Елф Хлебар",
+      "label": "пече истински хляб",
+      "avatarUrl": "/packages/32-hlebar/avatar.png",
+      "coverUrl": "/packages/32-hlebar/cover.jpg",
+      "readmeUrl": "/packages/32-hlebar/README.md"
+    },
+    {
+      "id": "33-student",
+      "name": "Елф Студент",
+      "label": "скъсва пропагандата на изпита",
+      "avatarUrl": "/packages/33-student/avatar.png",
+      "coverUrl": "/packages/33-student/cover.jpg",
+      "readmeUrl": "/packages/33-student/README.md"
+    },
+    {
+      "id": "34-ski-instruktor",
+      "name": "Елф Скиор",
+      "label": "троловете остават в преспите",
+      "avatarUrl": "/packages/34-ski-instruktor/avatar.png",
+      "coverUrl": "/packages/34-ski-instruktor/cover.jpg",
+      "readmeUrl": "/packages/34-ski-instruktor/README.md"
+    },
+    {
+      "id": "35-spasitel",
+      "name": "Елф Спасител",
+      "label": "вади хората от морето на фейковете",
+      "avatarUrl": "/packages/35-spasitel/avatar.png",
+      "coverUrl": "/packages/35-spasitel/cover.jpg",
+      "readmeUrl": "/packages/35-spasitel/README.md"
+    },
+    {
+      "id": "36-arheolog",
+      "name": "Елф Археолог",
+      "label": "копае истинската история",
+      "avatarUrl": "/packages/36-arheolog/avatar.png",
+      "coverUrl": "/packages/36-arheolog/cover.jpg",
+      "readmeUrl": "/packages/36-arheolog/README.md"
+    },
+    {
+      "id": "37-astronom",
+      "name": "Елф Астроном",
+      "label": "троловете не са звезди",
+      "avatarUrl": "/packages/37-astronom/avatar.png",
+      "coverUrl": "/packages/37-astronom/cover.jpg",
+      "readmeUrl": "/packages/37-astronom/README.md"
+    },
+    {
+      "id": "38-veterinarka",
+      "name": "Елф Ветеринарка",
+      "label": "разкрива троловете маскирани като котета",
+      "avatarUrl": "/packages/38-veterinarka/avatar.png",
+      "coverUrl": "/packages/38-veterinarka/cover.jpg",
+      "readmeUrl": "/packages/38-veterinarka/README.md"
+    },
+    {
+      "id": "39-kurier",
+      "name": "Елф Куриер",
+      "label": "доставя факти за 15 минути",
+      "avatarUrl": "/packages/39-kurier/avatar.png",
+      "coverUrl": "/packages/39-kurier/cover.jpg",
+      "readmeUrl": "/packages/39-kurier/README.md"
+    },
+    {
+      "id": "40-barman",
+      "name": "Елф Барман",
+      "label": "налива на приятелите, троловете — вън",
+      "avatarUrl": "/packages/40-barman/avatar.png",
+      "coverUrl": "/packages/40-barman/cover.jpg",
+      "readmeUrl": "/packages/40-barman/README.md"
+    },
+    {
+      "id": "41-zabolekar",
+      "name": "Елф Зъболекар",
+      "label": "вади лъжите с корена",
+      "avatarUrl": "/packages/41-zabolekar/avatar.png",
+      "coverUrl": "/packages/41-zabolekar/cover.jpg",
+      "readmeUrl": "/packages/41-zabolekar/README.md"
+    },
+    {
+      "id": "42-sladkarka",
+      "name": "Елф Сладкарка",
+      "label": "торти за добрите",
+      "avatarUrl": "/packages/42-sladkarka/avatar.png",
+      "coverUrl": "/packages/42-sladkarka/cover.jpg",
+      "readmeUrl": "/packages/42-sladkarka/README.md"
+    },
+    {
+      "id": "43-lozar",
+      "name": "Елф Винар",
+      "label": "истината отлежава",
+      "avatarUrl": "/packages/43-lozar/avatar.png",
+      "coverUrl": "/packages/43-lozar/cover.jpg",
+      "readmeUrl": "/packages/43-lozar/README.md"
+    },
+    {
+      "id": "44-gradinarka",
+      "name": "Елф Розоберачка",
+      "label": "розите имат бодли",
+      "avatarUrl": "/packages/44-gradinarka/avatar.png",
+      "coverUrl": "/packages/44-gradinarka/cover.jpg",
+      "readmeUrl": "/packages/44-gradinarka/README.md"
+    },
+    {
+      "id": "45-prodavachka",
+      "name": "Елф Продавачка",
+      "label": "на троловете не продава",
+      "avatarUrl": "/packages/45-prodavachka/avatar.png",
+      "coverUrl": "/packages/45-prodavachka/cover.jpg",
+      "readmeUrl": "/packages/45-prodavachka/README.md"
+    },
+    {
+      "id": "46-elektrotehnik",
+      "name": "Елф Електротехник",
+      "label": "свързва кабелите, които троловете режат",
+      "avatarUrl": "/packages/46-elektrotehnik/avatar.png",
+      "coverUrl": "/packages/46-elektrotehnik/cover.jpg",
+      "readmeUrl": "/packages/46-elektrotehnik/README.md"
+    },
+    {
+      "id": "47-vodoprovodchik",
+      "name": "Елф Водопроводчик",
+      "label": "отпушва канала от пропаганда",
+      "avatarUrl": "/packages/47-vodoprovodchik/avatar.png",
+      "coverUrl": "/packages/47-vodoprovodchik/cover.jpg",
+      "readmeUrl": "/packages/47-vodoprovodchik/README.md"
+    },
+    {
+      "id": "48-aptekarka",
+      "name": "Елф Аптекарка",
+      "label": "чудодейните хапчета от изток не минават",
+      "avatarUrl": "/packages/48-aptekarka/avatar.png",
+      "coverUrl": "/packages/48-aptekarka/cover.jpg",
+      "readmeUrl": "/packages/48-aptekarka/README.md"
+    },
+    {
+      "id": "49-kosmonavt",
+      "name": "Елф Космонавт",
+      "label": "от орбита България е в Европа",
+      "avatarUrl": "/packages/49-kosmonavt/avatar.png",
+      "coverUrl": "/packages/49-kosmonavt/cover.jpg",
+      "readmeUrl": "/packages/49-kosmonavt/README.md"
+    },
+    {
+      "id": "50-gorski",
+      "name": "Елф Горски",
+      "label": "троловете се губят в гората",
+      "avatarUrl": "/packages/50-gorski/avatar.png",
+      "coverUrl": "/packages/50-gorski/cover.jpg",
+      "readmeUrl": "/packages/50-gorski/README.md"
+    }
+  ]
+}

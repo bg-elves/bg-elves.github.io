@@ -7,11 +7,22 @@
 
 | Поле | Стойност |
 |---|---|
-| Име на страницата | **Елф Железничар** |
+| Име на страницата | **Елф Железничар** (или с прилагателно: „Елф Печен Железничар“, виж [списъка](../../data/adjectives.yaml)) |
 | Потребителско име (предложение) | `@elf.zheleznichar` (или добави град: `@elf.zheleznichar.gorna-oryahovitsa`) |
 | Категория | Digital creator (или Comedian / Satire) |
+| Род | м |
 | Профилна снимка | [avatar.png](avatar.png) (1080×1080) |
 | Корица | [cover.jpg](cover.jpg) (1640×624) |
+
+## Алтернативни имена
+
+| Име | Потребителско име |
+|---|---|
+| Елф Находчив Железничар | `@elf.nahodchiv.zheleznichar` |
+| Елф Кибер Железничар | `@elf.kiber.zheleznichar` |
+| Елф Светъл Железничар | `@elf.svetal.zheleznichar` |
+| Елф Силен Железничар | `@elf.silen.zheleznichar` |
+| Елф Кротък Железничар | `@elf.krotak.zheleznichar` |
 
 ## Био (до 101 знака)
 
